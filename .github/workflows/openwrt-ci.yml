@@ -7,7 +7,7 @@
 # <https://github.com/KFERMercer/OpenWrt-CI>
 #
 
-name: OpenWrt-CI-2021-02-01
+name: OpenWrt-CI-2021-04-14
 
 on:
   push:
